@@ -1,0 +1,5 @@
+https://www.cnblogs.com/kongzhagen/p/6549053.html
+
+run:
+1> cd movie
+2> scrapy crawl meiju --nolog
